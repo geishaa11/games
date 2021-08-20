@@ -1,7 +1,9 @@
 {
 "AdNetwork":"ironsource",
-"IronSourceBannerId": "default",
-
-"IronSourceInterstitialId": "default",
-
+"IronSourceBannerId": "",
+"IronSourceInterstitialId": "",
+"IronSourceRewardedVideoId": "",
+"FacebookBannerId": "",
+"FacebookInterstitialId": "",
+"FacebookRewardedVideoId": "",
 }
